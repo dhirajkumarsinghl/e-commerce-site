@@ -4,7 +4,8 @@ export default class Default extends Component {
     render() {
         console.log(this.props);
         return (
-            <div className="container">
+            <di
+            v className="container">
                 <div className="row">
                     <div className="col-10 mx-auto text-center text-title">
                         <h1>error</h1>
